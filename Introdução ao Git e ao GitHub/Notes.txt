@@ -5,3 +5,22 @@ Link para download do Git: https://git-scm.com/downloads
 
 Link para download do GitHub Desktop: https://central.github.com/deployments/desktop/desktop/latest/win32
 // GitHub Desktop é uma aplicação que habilita a interação com o GitHub.
+
+
+===================================================================//=======================================//==========================================================
+
+						Objetos
+
+Blobs
+Trees
+Commits
+
+						Comandos
+					
+git init // inicializar a interação ao GitHub
+git status // Solicitar o status da interação
+git add . // Adicionar o repositorio a ao Git
+git commit -m "" // Criar um comentário
+git push origin main // Envia o repositorio para o gitHub 
+git config --global user.email // Define um e-mail vinculado ao repositorio
+git config --global user.name // Define um usuario vinculado ao repositorio
