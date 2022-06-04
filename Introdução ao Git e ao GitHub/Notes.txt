@@ -1,0 +1,7 @@
+El Psy Congroo
+
+Link para download do Git: https://git-scm.com/downloads
+// O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Link para download do GitHub Desktop: https://central.github.com/deployments/desktop/desktop/latest/win32
+// GitHub Desktop é uma aplicação que habilita a interação com o GitHub.
